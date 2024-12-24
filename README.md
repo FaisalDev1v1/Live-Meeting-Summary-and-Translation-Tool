@@ -104,15 +104,4 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 
 ## **License**  
 This project is licensed under the MIT License. See the `LICENSE` file for more details.  
-
 ---
-
-## **Contact**  
-For questions or feedback, feel free to reach out:  
-- **Name**: [Your Name]  
-- **Email**: [Your Email]  
-- **GitHub**: [Your GitHub Profile Link]  
-
----  
-
-Feel free to replace placeholders like `[Your Name]`, `[Your Email]`, and `[Your GitHub Profile Link]` with your actual information! 😊
