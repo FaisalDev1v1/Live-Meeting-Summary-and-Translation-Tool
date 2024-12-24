@@ -1,8 +1,3 @@
-# Live-Meeting-Summary-and-Translation-Tool
-
-
-
-
 # **Live Meeting Summary and Translation Tool** 📝  
 
 ## **Overview**  
